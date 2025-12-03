@@ -1,5 +1,4 @@
-#Description
-Implémentation et comparaison d'algorithmes avec analyse de complexité temporelle.
+Description-Implémentation et comparaison d'algorithmes avec analyse de complexité temporelle.
 
 Fonctions Implémentées
 
